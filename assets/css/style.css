@@ -70,6 +70,19 @@ p {
     margin-left: 25px;
 }
 
+
+#m-topnav ul li{
+    display: none;
+}
+
+/* Style the hamburger menu */
+.topnav a.icon {
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+
 /* Hero Image Style */
 
 .hero {

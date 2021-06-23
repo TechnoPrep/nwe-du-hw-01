@@ -59,6 +59,7 @@ p {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    position: relative;
 }
 
 .header nav ul {
@@ -69,19 +70,6 @@ p {
     display: inline-block;
     margin-left: 25px;
 }
-
-
-#m-topnav ul li{
-    display: none;
-}
-
-/* Style the hamburger menu */
-.topnav a.icon {
-    display: inline-block;
-    position: absolute;
-    right: 0;
-    top: 0;
-  }
 
 /* Hero Image Style */
 
@@ -222,4 +210,10 @@ p {
 
 .footer h2 {
     font-size: 20px;
+}
+
+@media only screen and (max-width: 1040px){
+    nav ul li {
+        font-size: 1em;
+    }
 }

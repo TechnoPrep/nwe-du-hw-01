@@ -48,8 +48,8 @@ p {
     color: #d9dcd6;
 }
 
-/* Nav Element Styles */ */
-.header nav {
+/* Nav Element Styles */ 
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -58,11 +58,8 @@ p {
     position: relative;
 }
 
-.header nav ul {
+nav ul li {
     list-style-type: none;
-}
-
-.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }

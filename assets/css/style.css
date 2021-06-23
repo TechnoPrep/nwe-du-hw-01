@@ -75,16 +75,15 @@ nav ul li {
     background-position: center;
 }
 
-/* Section Element Styles */
+/* Primary Article Styles */
 
-.content {
+.primary-article {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* Primary Article Styles */
-.primary-article {
+.primary-article article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -115,17 +114,17 @@ nav ul li {
     background-color: #227EAE;
 }
 
-.right-panel {
+.benefits article {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.right-panel h3 {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.right-panel img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -133,13 +132,13 @@ nav ul li {
 
 /* Footer Element Styles */
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h4 {
+footer h4 {
     font-size: 20px;
 }

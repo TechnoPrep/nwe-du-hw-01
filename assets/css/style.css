@@ -32,19 +32,19 @@ p {
 }
 
 /*  Header Element Styles */
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 
@@ -77,13 +77,13 @@ nav ul li {
 
 /* Primary Article Styles */
 
-.primary-article {
+section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.primary-article article {
+section article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -92,11 +92,11 @@ nav ul li {
     color: #ffffff;
 }
 
-.primary-article img {
+section img {
     max-height: 200px;
 }
 
-.primary-article h2 {
+section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }

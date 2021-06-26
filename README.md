@@ -1,6 +1,8 @@
 # <Code Refactor>
 ## Description
-For this project, I did a couple of things. First I wanted to make sure the content for the site was ADA Compliant to ensure that anyone viewing the site would have an excellent user experience. The second thing I sought out to accomplish was to take an existing code base and simplify the HTML and CSS without losing functionality. 
+For this project, I did a couple of things. 
+First I wanted to make sure the content for the site was ADA Compliant to ensure that anyone viewing the site would have an excellent user experience. 
+The second thing I sought out to accomplish was to take an existing code base and simplify the HTML and CSS without losing functionality. 
 - My motivation for this was to have the ability to not only create custom content, but view existing content and see how it could be improved
 - What problem does it solve?
 - With this project I wanted to solidify my understanding of semantic HTML elements and apply the DRY (Don't repeat yourself) methodology of coding. 
